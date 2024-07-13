@@ -17,17 +17,17 @@ const Nav = () => {
       </NavbarBrand>
       <NavbarContent className="flex gap-24" justify="center">
         <NavbarItem>
-          <Link className="text-black font-extrabold text-lg" href="/about">
+          <Link className="text-black font-extrabold text-lg" href="/portfolio/#/about">
             About
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link className="text-black font-extrabold text-lg" href="/experience">
+          <Link className="text-black font-extrabold text-lg" href="/portfolio/#/experience">
             Experience
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link className="text-black font-extrabold text-lg" href="/projects">
+          <Link className="text-black font-extrabold text-lg" href="/portfolio/#/projects">
             Projects
           </Link>
         </NavbarItem>
