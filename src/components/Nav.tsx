@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <Navbar className="border-solid border-black border-b-2 bg-white drop-shadow-semi-black" maxWidth="xl">
       <NavbarBrand>
-        <Link className="text-black font-extrabold text-2xl" href="/">
+        <Link className="text-black font-extrabold text-2xl" href="/portfolio/#">
           <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="-9 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-code">
             <polyline points="8 6 2 12 8 18"></polyline>
           </svg>
