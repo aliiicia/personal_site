@@ -1,8 +1,12 @@
 import React from 'react'
+import Nav from '../components/Nav'
 
 const Experience = () => {
   return (
-    <div>Experience</div>
+    <>
+      <Nav />
+      <div className="h-screen bg-yellow"></div>
+    </>
   )
 }
 

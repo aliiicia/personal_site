@@ -1,8 +1,12 @@
 import React from 'react'
+import Nav from '../components/Nav'
 
 const About = () => {
   return (
-    <div>About</div>
+    <>
+      <Nav />
+      <div className="h-screen bg-peach"></div>
+    </>
   )
 }
 

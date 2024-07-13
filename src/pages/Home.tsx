@@ -4,9 +4,9 @@ import Nav from '../components/Nav'
 const Home = () => {
   return (
     <>
-    <Nav />
-    <div className="h-screen bg-blue"></div>
-    <div className="h-screen bg-green"></div>
+      <Nav />
+      <div className="h-screen bg-blue"></div>
+      <div className="h-screen bg-green"></div>
     </>
   )
 }

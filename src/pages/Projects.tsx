@@ -1,8 +1,12 @@
 import React from 'react'
+import Nav from '../components/Nav'
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <>
+      <Nav />
+      <div className="h-screen bg-purple"></div>
+    </>
   )
 }
 
